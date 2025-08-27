@@ -9,7 +9,7 @@ Just a simple Electron Vite prepacked with React Framework (all in one)
 ```
 npm install
 
-npm run dev
+npm run dev - development
 
-(did not manage to implement running prod yet)
+npm run prod - production
 ```
